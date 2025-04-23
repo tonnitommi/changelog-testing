@@ -1,3 +1,7 @@
+## 0.0.7 [2025-04-17]
+
+Too good to be true!
+
 ## 0.0.6 [2025-04-16]
 
 Cron and can't sleep.
