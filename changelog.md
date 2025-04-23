@@ -1,3 +1,7 @@
+## 0.0.3 [2025-04-13]
+
+Vibe coded it all. Don't know more. Ready to 🛳️.
+
 ## 0.0.2 [2025-04-12]
 
 Did none.
