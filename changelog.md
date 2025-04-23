@@ -1,3 +1,7 @@
+## 0.0.5 [2025-04-15]
+
+Still awake and fixing.
+
 ## 0.0.4 [2025-04-14]
 
 Spent all night fixing.
